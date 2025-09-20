@@ -7,3 +7,6 @@ This repository contains a simple **Helm chart** to deploy an Apache HTTP server
 - [Helm 3+](https://helm.sh/docs/intro/install/)
 
 ## 📂 Chart Structure
+helm-apache-app-trial/
+│── templates/ # Kubernetes manifest templates
+│── Chart.yaml # Chart metadata
