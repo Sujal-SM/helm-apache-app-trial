@@ -10,6 +10,6 @@ This repository contains a simple **Helm chart** to deploy an Apache HTTP server
 helm-apache-app-trial/
 
 │── templates/ # Kubernetes manifest templates
-│── Chart.yaml # Chart metadata
+ │── Chart.yaml # Chart metadata
 │── values.yaml # Default configuration values
-│── .helmignore # Files ignored when packaging
+ │── .helmignore # Files ignored when packaging
